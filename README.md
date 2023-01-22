@@ -1,5 +1,5 @@
 # python1
-reto de python 1
+Reto de python 1
 Este es un video juego de piedra papel o tijera creado desde la terminal, con python 
 para ejecutarlo sigue los siguientes pasos:
 steps
